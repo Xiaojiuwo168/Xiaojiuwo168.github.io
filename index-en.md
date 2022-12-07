@@ -14,3 +14,33 @@
   </tr>
 </table>
 </div>
+
+---
+
+Shuchao Deng.
+
+---
+
+### Latest News
+1. One paper was published on GECCO 2022
+
+### Research Directions
+- Neural Architecture Search
+- Facial expression recognition
+
+### Honors and Awards
+- Scholarship
+- Honors
+- Competition Awards
+### Project Research
+#### Company/School/Institute (2013.9~2017.6)
+- **Project 1**  
+Project description
+- **Project 2**  
+Project Description
+
+#### Company/School/Institute (2017.9~present)
+- **Project 1**  
+Project Description
+- **Project 2**  
+Project Description
