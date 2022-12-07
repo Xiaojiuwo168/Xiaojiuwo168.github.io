@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td>
-      <h1>Shuchao Deng</h1>
+      <h1>Zhang San</h1>
       <p><b>Master</b></p>
-      <p><b>School of Computer Science, Sichuan University</b></p>
-      <p><b>shuchao@stu.scu.edu.cn</b></p>
-      <p><b>Address：Sichuan University Wangjiang Campus</b></p>
+      <p><b>College of ××, ×× University</b></p>
+      <p><b>E-mail：1234567789@qq.com</b></p>
+      <p><b>Address：Rm××, ×× Building, ×× University, ×× Road, Nanjing</b></p>
       <a href="/index.html">中文版</a>
     </td>
     <td width="25%">
