@@ -1,5 +1,5 @@
 # bdhehohai.github.io
-bdhehohai的个人主页
+Shuchao's personal homepage
 ## Hi, 👋  I'm Shuchao Deng </a>
 <div>
 <table border="0">
@@ -12,7 +12,7 @@ bdhehohai的个人主页
       <a href="/index.html"></a>
     </td>
     <td width="25%">
-      <img src="/shuchao.jpeg" width="100%">
+      <img src="/shuchao.jpg" width="100%">
     </td>
   </tr>
 </table>
