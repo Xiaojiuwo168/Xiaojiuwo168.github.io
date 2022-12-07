@@ -1,15 +1,16 @@
 <div>
 <table border="0">
   <tr>
-    <td>
-      <h1>Shuchao Deng</h1>
-      <p><b>Master</b></p>
-      <p><b>School of Computer Science, Sichuan University</b></p>
-      <p><b>E-mail：shuchao@stu.scu.edu.cn</b></p>
-      <p><b>Address：Sichuan University Wangjiang Campus</b></p>
+    <td width="75%">
+      <h1>张三</h1>
+      <p><b>硕士研究生</b></p>
+      <p><b>××大学××学院</b></p>
+      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
     </td>
     <td width="25%">
-      <img src="/shuchao.jpg" width="100%">
+      <img src="/zhengjianzhao.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -17,31 +18,31 @@
 
 ---
 
-Shuchao Deng.
+张三，男，个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介个人简介
 
 ---
 
-### Latest News
-1. One paper was published on GECCO 2022
+### 最新消息
+1. 消息1×××
 
-### Research Directions
-- Neural Architecture Search
-- Facial expression recognition
+### 研究方向
+- 文本挖掘
+- 知识图谱
 
-### Honors and Awards
-- Scholarship
-- Honors
-- Competition Awards
-### Project Research
-#### Company/School/Institute (2013.9~2017.6)
-- **Project 1**  
-Project description
-- **Project 2**  
-Project Description
+### 荣誉奖励
+- 奖学金
+- 荣誉称号
+- 比赛获奖
 
-#### Company/School/Institute (2017.9~present)
-- **Project 1**  
-Project Description
-- **Project 2**  
-Project Description
+### 项目研究
+#### 公司/学校/研究所（2013.9~2017.6）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
 
+#### 公司/学校/研究所（2017.9~至今）
+- **项目1**  
+项目描述
+- **项目2**  
+项目描述
